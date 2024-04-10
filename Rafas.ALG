@@ -1,7 +1,10 @@
 Algoritmo "Programa de cálculo"
+// Disciplina   : [Linguagem e Lógica de Programação] 
+// Professor   : Antonio Carlos Nicolodi 
 // Descreição: Programa para calcular
 // Autor(a)    : Rafael Fagundes Formagi
 // Data atual  : 08/04/2024
+escreval ("esse projeto esta no github")
 Var
 // Seção de Declarações das variáveis
 largura: real
